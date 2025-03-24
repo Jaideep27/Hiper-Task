@@ -3,3 +3,4 @@ temp/
 .venv
 myenv
 test_sample.txt
+.idea
